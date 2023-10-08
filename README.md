@@ -1,4 +1,2 @@
 # VOLUNTEER
-# VOLUNTEER
-# VOLUNTEER
-# VOLUNTEER
+A model for trajectory generation.
